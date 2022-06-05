@@ -1,5 +1,5 @@
 {
-  "name": "sequelize",
+  "name": "sequelize-orderby-mainquery",
   "description": "Multi dialect ORM for Node.JS",
   "version": "0.0.0-development",
   "author": "Sascha Depold <sascha@depold.com>",
@@ -8,7 +8,8 @@
     "Jan Aagaard Meier <janzeh@gmail.com>",
     "Daniel Durante <me@danieldurante.com>",
     "Mick Hansen <mick.kasper.hansen@gmail.com>",
-    "Sushant Dhiman <sushantdhiman@outlook.com>"
+    "Sushant Dhiman <sushantdhiman@outlook.com>",
+    "Filipe Souza <filipe.cdesouza@gmail.com>"
   ],
   "repository": {
     "type": "git",
